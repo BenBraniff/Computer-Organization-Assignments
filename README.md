@@ -1,2 +1,2 @@
 # Computer-Organization-Assignments
-Professor New
+Professor Newaz
