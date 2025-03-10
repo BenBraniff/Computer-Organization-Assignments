@@ -1,2 +1,2 @@
 # Computer-Organization-Assignments
-Professor Newaz
+All my assignments from Computer Organization class. Professor Newaz
